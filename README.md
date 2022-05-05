@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahhfur
-- 👀 I’m interested in games and skate
+- 👀 I’m interested in games
 - 🌱 I’m currently learning about technology
 - 💞️ I’m looking to collaborate on word
 - 📫 How to reach me ...
