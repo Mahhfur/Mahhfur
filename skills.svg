@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <!-- Background -->
+  <rect width="600" height="200" fill="#4B0082" rx="15" />
+
+  <!-- Text Styles -->
+  <style>
+    .title {
+      font-family: Arial, sans-serif;
+      font-size: 18px;
+      font-weight: bold;
+      fill: #FFFFFF;
+    }
+
+    .text {
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      fill: #D8BFD8;
+    }
+  </style>
+
+  <!-- Title -->
+  <text x="50%" y="30" class="title" dominant-baseline="middle" text-anchor="middle">
+    Estagiária em Análise de Dados
+  </text>
+
+  <!-- Text Lines -->
+  <text x="50%" y="60" class="text" dominant-baseline="middle" text-anchor="middle">
+    Atualmente trabalho na empresa Quero Educação
+  </text>
+  <text x="50%" y="90" class="text" dominant-baseline="middle" text-anchor="middle">
+    Desenvolvendo habilidades em:
+  </text>
+  <text x="50%" y="120" class="text" dominant-baseline="middle" text-anchor="middle">
+    - Manipulação e limpeza de dados
+  </text>
+  <text x="50%" y="140" class="text" dominant-baseline="middle" text-anchor="middle">
+    - Visualização de dados
+  </text>
+  <text x="50%" y="160" class="text" dominant-baseline="middle" text-anchor="middle">
+    - Estatística e modelos preditivos
+  </text>
+  <text x="50%" y="180" class="text" dominant-baseline="middle" text-anchor="middle">
+    - Serviços de nuvem e orquestração de dados
+  </text>
+</svg>
