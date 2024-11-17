@@ -10,6 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahhfur&bg_color=000000&color=7749C9&line=AB57F1&point=CFA9EF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<img align="right" alt="" height="190px" src="https://github.com/Mahhfur/Mahhfur/blob/main/study.gif">
 
 
 <h3 align="left">Connect with me!</h3>
