@@ -45,16 +45,15 @@
   
 </div>
 
+
 #
 
 
 <div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Mahhfur}/count.svg?color=8A2BE2&background=000000" />
-  </p> 
-  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <img src="https://raw.githubusercontent.com/Mahhfur/Mahhfur/main/counter.svg" alt="Visitors Count" />
 </div>
+
 
 
 <picture align="center">
@@ -62,6 +61,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahhfur/Mahhfur/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahhfur/Mahhfur/output/github-contribution-grid-snake.svg">
 </picture>
+
 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B186EA&height=120&section=footer"/>
