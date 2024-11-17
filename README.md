@@ -2,10 +2,19 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+MARIANA+FURTADO;I+am+from+Jacareí,+SP;I+study+computer+science+at+UNIFESP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mahhfur&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Furtado github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahhfur&layout=compact&hide_border=true&title_color=A020F0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+<br><br> 
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mahhfur/Mahhfur/main/skills.svg" alt="Skills">
+</div>
+
+<br><br> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahhfur&bg_color=000000&color=7749C9&line=AB57F1&point=CFA9EF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
