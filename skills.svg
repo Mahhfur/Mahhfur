@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
   <!-- Background -->
-  <rect width="600" height="200" fill="#4B0082" rx="15" />
+  <rect width="600" height="300" fill="#4B0082" rx="15" />
 
   <!-- Text Styles -->
   <style>
